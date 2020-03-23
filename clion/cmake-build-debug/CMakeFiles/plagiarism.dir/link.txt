@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/plagiarism.dir/src/main.cpp.o CMakeFiles/plagiarism.dir/src/Compare.cpp.o  -o plagiarism libplagiarism_lib.a 

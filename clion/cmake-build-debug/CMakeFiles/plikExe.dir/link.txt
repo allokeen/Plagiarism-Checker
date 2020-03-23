@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/plikExe.dir/src/main.cpp.o CMakeFiles/plikExe.dir/src/Compare.cpp.o  -o plikExe 

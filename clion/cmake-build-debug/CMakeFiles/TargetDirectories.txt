@@ -1,4 +1,0 @@
-/home/khamza/repos/oop_2019_aplikacja_do_wykrywania_plagiatow_w_kodzie_zrodlowym/clion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/khamza/repos/oop_2019_aplikacja_do_wykrywania_plagiatow_w_kodzie_zrodlowym/clion/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/khamza/repos/oop_2019_aplikacja_do_wykrywania_plagiatow_w_kodzie_zrodlowym/clion/cmake-build-debug/CMakeFiles/plagiarism_lib.dir
-/home/khamza/repos/oop_2019_aplikacja_do_wykrywania_plagiatow_w_kodzie_zrodlowym/clion/cmake-build-debug/CMakeFiles/plagiarism.dir

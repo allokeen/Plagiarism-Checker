@@ -1,2 +1,0 @@
-/usr/bin/ar qc libplagiarism_lib.a  CMakeFiles/plagiarism_lib.dir/src/Compare.cpp.o CMakeFiles/plagiarism_lib.dir/src/simpleCompare.cpp.o CMakeFiles/plagiarism_lib.dir/src/removeDuplicates.cpp.o CMakeFiles/plagiarism_lib.dir/src/basicLexicalAnalyzer.cpp.o CMakeFiles/plagiarism_lib.dir/src/lexicalAnalyzer.cpp.o
-/usr/bin/ranlib libplagiarism_lib.a
